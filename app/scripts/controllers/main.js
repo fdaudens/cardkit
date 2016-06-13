@@ -17,12 +17,17 @@ angular.module('cardkitApp')
           width: 800,
           height: 370,
           default: true
-        },
+        },        
         {
           name: 'Twitter',
           width: 650,
           height: 320,
         },
+        {
+          name: 'Instagram',
+          width: 540,
+          height: 540,
+        },        
         {
           name: 'Video',
           width: 640,
